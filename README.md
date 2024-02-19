@@ -1,1 +1,1 @@
-aws, java 17
+aws, java 17, MySQL 
