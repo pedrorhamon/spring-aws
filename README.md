@@ -1,1 +1,1 @@
-aws, java 17, MySQL 
+aws, springboot, java 17, MySQL 
